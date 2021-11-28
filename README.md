@@ -6,11 +6,13 @@ Event-In is a mobile app created with the purpose of bringing people closer to s
 
 ## Test the published version (Android Only)
 
-Step 1: download Expo Go from Google Play Store
+**Step 1**: download Expo Go from Google Play Store
 <br />
-Step 2: access the following link on your computer: https://expo.dev/@andyfrank/proyecto-grupal
-Step 3: open Expo Go, tap on "scan QR code" and scan the code render on the previous link.
-Step 4: enjoy.
+**Step 2**: access the following link on your computer: https://expo.dev/@andyfrank/proyecto-grupal
+<br />
+**Step 3**: open Expo Go, tap on "scan QR code" and scan the code render on the previous link.
+<br /> 
+**Step 4**: enjoy.
 
 ## Features Video <g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> 
 
