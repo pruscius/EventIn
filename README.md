@@ -4,7 +4,7 @@
 
 Event-In is a mobile app created with the purpose of bringing people closer to social events near their current location, filtering them by date or category and searching for them by name. Wether it may be a casual social gathering or a formal event, everyone has the opportunity to showcase their own. 
 
-## Test the published version (Android Only)
+## Test the published version (preferable on Android)
 
 **Step 1**: download Expo Go from Google Play Store on your mobile device.
 <br />
